@@ -12,7 +12,8 @@ Servicio para envio de notificaciones a traves de un servicio de mensajeria.
 
 ## Instalacion
 
-mvn clean install
+- Ejecutar comando: mvn clean install
+- Correr la aplicacion
 
 Ejecutar el siguiente curl:
 
