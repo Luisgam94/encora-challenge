@@ -1,0 +1,6 @@
+server:
+  port: 9092
+
+api:
+  notification:
+    url: https://d0c79438-6cd6-488d-9b2c-66d9d742a0e9.mock.pstmn.io
